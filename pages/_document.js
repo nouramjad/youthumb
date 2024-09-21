@@ -27,6 +27,9 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
+          <footer>
+            <p>Thank you for using the website!</p>
+          </footer>
         </body>
       </Html>
     );
